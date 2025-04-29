@@ -1,0 +1,249 @@
+Original Data:
+[
+Nguyễn Trường, An, 2002, 7.50
+Nguyễn Văn, An, 2004, 6.67
+Đồng Đức, Anh, 2003, 6.33
+Vũ Hải, Anh, 2002, 8.33
+Chu Hoàng, Anh, 2006, 7.83
+Phạm Hùng, Anh, 2004, 9.00
+Phùng Thị Mai, Anh, 2001, 6.33
+Nguyễn Thục, Anh, 2007, 7.33
+Lê Tuyết, Anh, 2003, 7.17
+Hoàng Thị Vân, Anh, 2002, 9.17
+Nguyễn Bá Việt, Anh, 2001, 7.50
+Phạm Dương Việt, Anh, 2007, 8.50
+Trần Thanh, Bình, 2003, 6.17
+Nguyễn Duy, Chiến, 2007, 8.17
+Nguyễn Đức, Chính, 2008, 7.67
+Nguyễn Như, Cường, 2003, 9.67
+Thân Lê Quang, Cường, 2004, 7.50
+Lê Thị Thuỳ, Dung, 2002, 8.17
+Nguyễn Quang, Dũng, 2006, 6.83
+Phùng Văn, Dũng, 2006, 7.50
+Bùi Khánh, Duy, 2003, 7.83
+Bùi Đăng, Dương, 2002, 5.33
+Nguyễn Văn Hải, Dương, 2001, 8.33
+Nguyễn Quốc, Đạt, 2007, 8.17
+Lâm Sơn, Đạt, 2003, 6.50
+Đỗ Tiến, Đạt, 2002, 6.67
+Vi Văn, Đô, 2001, 6.83
+Nguyễn Văn, Đồng, 2000, 7.67
+Đỗ Anh, Đức, 2005, 7.33
+Lương Đình, Đức, 2003, 8.83
+Phạm Minh, Đức, 2004, 5.33
+Vũ Trường, Giang, 2002, 6.67
+Trần Ngọc, Hải, 2002, 6.67
+Nguyễn Văn, Hải, 2003, 5.83
+Trần Tiến, Hảo, 2001, 5.67
+Ngô Thị Thu, Hằng, 2006, 5.50
+Nguyễn Thị Thu, Hiền, 2002, 5.67
+Đỗ Minh, Hiếu, 2002, 5.67
+Lê Minh, Hiếu, 2007, 7.50
+Đỗ Tràng, Hiếu, 2003, 5.33
+Bùi Trung, Hiếu, 2003, 7.33
+Phan Xuân, Hiếu, 2001, 6.67
+Nguyễn Văn, Hòa, 2002, 5.67
+Mạc Duy, Hoan, 2002, 3.50
+Lê Việt, Hoàng, 2005, 8.50
+Lê Việt, Hoàng, 2007, 6.33
+Đào Quốc, Hội, 2003, 5.50
+Vũ Tiến, Hùng, 1999, 5.83
+Lưu Hiểu, Huy, 2002, 6.67
+]Sorted by Name:
+[
+Nguyễn Trường, An, 2002, 7.50
+Nguyễn Văn, An, 2004, 6.67
+Chu Hoàng, Anh, 2006, 7.83
+Hoàng Thị Vân, Anh, 2002, 9.17
+Lê Tuyết, Anh, 2003, 7.17
+Nguyễn Bá Việt, Anh, 2001, 7.50
+Nguyễn Thục, Anh, 2007, 7.33
+Phùng Thị Mai, Anh, 2001, 6.33
+Phạm Dương Việt, Anh, 2007, 8.50
+Phạm Hùng, Anh, 2004, 9.00
+Vũ Hải, Anh, 2002, 8.33
+Đồng Đức, Anh, 2003, 6.33
+Trần Thanh, Bình, 2003, 6.17
+Nguyễn Duy, Chiến, 2007, 8.17
+Nguyễn Đức, Chính, 2008, 7.67
+Nguyễn Như, Cường, 2003, 9.67
+Thân Lê Quang, Cường, 2004, 7.50
+Lê Thị Thuỳ, Dung, 2002, 8.17
+Bùi Khánh, Duy, 2003, 7.83
+Nguyễn Quang, Dũng, 2006, 6.83
+Phùng Văn, Dũng, 2006, 7.50
+Bùi Đăng, Dương, 2002, 5.33
+Nguyễn Văn Hải, Dương, 2001, 8.33
+Vũ Trường, Giang, 2002, 6.67
+Bùi Trung, Hiếu, 2003, 7.33
+Lê Minh, Hiếu, 2007, 7.50
+Phan Xuân, Hiếu, 2001, 6.67
+Đỗ Minh, Hiếu, 2002, 5.67
+Đỗ Tràng, Hiếu, 2003, 5.33
+Nguyễn Thị Thu, Hiền, 2002, 5.67
+Mạc Duy, Hoan, 2002, 3.50
+Lê Việt, Hoàng, 2005, 8.50
+Lê Việt, Hoàng, 2007, 6.33
+Lưu Hiểu, Huy, 2002, 6.67
+Nguyễn Văn, Hòa, 2002, 5.67
+Vũ Tiến, Hùng, 1999, 5.83
+Nguyễn Văn, Hải, 2003, 5.83
+Trần Ngọc, Hải, 2002, 6.67
+Trần Tiến, Hảo, 2001, 5.67
+Ngô Thị Thu, Hằng, 2006, 5.50
+Đào Quốc, Hội, 2003, 5.50
+Vi Văn, Đô, 2001, 6.83
+Lâm Sơn, Đạt, 2003, 6.50
+Nguyễn Quốc, Đạt, 2007, 8.17
+Đỗ Tiến, Đạt, 2002, 6.67
+Nguyễn Văn, Đồng, 2000, 7.67
+Lương Đình, Đức, 2003, 8.83
+Phạm Minh, Đức, 2004, 5.33
+Đỗ Anh, Đức, 2005, 7.33
+]Sorted by Average Grade Increasing:
+[
+Mạc Duy, Hoan, 2002, 3.50
+Bùi Đăng, Dương, 2002, 5.33
+Phạm Minh, Đức, 2004, 5.33
+Đỗ Tràng, Hiếu, 2003, 5.33
+Ngô Thị Thu, Hằng, 2006, 5.50
+Đào Quốc, Hội, 2003, 5.50
+Trần Tiến, Hảo, 2001, 5.67
+Nguyễn Thị Thu, Hiền, 2002, 5.67
+Đỗ Minh, Hiếu, 2002, 5.67
+Nguyễn Văn, Hòa, 2002, 5.67
+Nguyễn Văn, Hải, 2003, 5.83
+Vũ Tiến, Hùng, 1999, 5.83
+Trần Thanh, Bình, 2003, 6.17
+Đồng Đức, Anh, 2003, 6.33
+Phùng Thị Mai, Anh, 2001, 6.33
+Lê Việt, Hoàng, 2007, 6.33
+Lâm Sơn, Đạt, 2003, 6.50
+Nguyễn Văn, An, 2004, 6.67
+Đỗ Tiến, Đạt, 2002, 6.67
+Vũ Trường, Giang, 2002, 6.67
+Trần Ngọc, Hải, 2002, 6.67
+Phan Xuân, Hiếu, 2001, 6.67
+Lưu Hiểu, Huy, 2002, 6.67
+Nguyễn Quang, Dũng, 2006, 6.83
+Vi Văn, Đô, 2001, 6.83
+Lê Tuyết, Anh, 2003, 7.17
+Nguyễn Thục, Anh, 2007, 7.33
+Đỗ Anh, Đức, 2005, 7.33
+Bùi Trung, Hiếu, 2003, 7.33
+Nguyễn Trường, An, 2002, 7.50
+Nguyễn Bá Việt, Anh, 2001, 7.50
+Thân Lê Quang, Cường, 2004, 7.50
+Phùng Văn, Dũng, 2006, 7.50
+Lê Minh, Hiếu, 2007, 7.50
+Nguyễn Đức, Chính, 2008, 7.67
+Nguyễn Văn, Đồng, 2000, 7.67
+Chu Hoàng, Anh, 2006, 7.83
+Bùi Khánh, Duy, 2003, 7.83
+Nguyễn Duy, Chiến, 2007, 8.17
+Lê Thị Thuỳ, Dung, 2002, 8.17
+Nguyễn Quốc, Đạt, 2007, 8.17
+Vũ Hải, Anh, 2002, 8.33
+Nguyễn Văn Hải, Dương, 2001, 8.33
+Phạm Dương Việt, Anh, 2007, 8.50
+Lê Việt, Hoàng, 2005, 8.50
+Lương Đình, Đức, 2003, 8.83
+Phạm Hùng, Anh, 2004, 9.00
+Hoàng Thị Vân, Anh, 2002, 9.17
+Nguyễn Như, Cường, 2003, 9.67
+]Sorted by Average Grade Decreasing:
+[
+Nguyễn Như, Cường, 2003, 9.67
+Hoàng Thị Vân, Anh, 2002, 9.17
+Phạm Hùng, Anh, 2004, 9.00
+Lương Đình, Đức, 2003, 8.83
+Phạm Dương Việt, Anh, 2007, 8.50
+Lê Việt, Hoàng, 2005, 8.50
+Vũ Hải, Anh, 2002, 8.33
+Nguyễn Văn Hải, Dương, 2001, 8.33
+Nguyễn Duy, Chiến, 2007, 8.17
+Lê Thị Thuỳ, Dung, 2002, 8.17
+Nguyễn Quốc, Đạt, 2007, 8.17
+Chu Hoàng, Anh, 2006, 7.83
+Bùi Khánh, Duy, 2003, 7.83
+Nguyễn Đức, Chính, 2008, 7.67
+Nguyễn Văn, Đồng, 2000, 7.67
+Nguyễn Trường, An, 2002, 7.50
+Nguyễn Bá Việt, Anh, 2001, 7.50
+Thân Lê Quang, Cường, 2004, 7.50
+Phùng Văn, Dũng, 2006, 7.50
+Lê Minh, Hiếu, 2007, 7.50
+Nguyễn Thục, Anh, 2007, 7.33
+Đỗ Anh, Đức, 2005, 7.33
+Bùi Trung, Hiếu, 2003, 7.33
+Lê Tuyết, Anh, 2003, 7.17
+Nguyễn Quang, Dũng, 2006, 6.83
+Vi Văn, Đô, 2001, 6.83
+Nguyễn Văn, An, 2004, 6.67
+Đỗ Tiến, Đạt, 2002, 6.67
+Vũ Trường, Giang, 2002, 6.67
+Trần Ngọc, Hải, 2002, 6.67
+Phan Xuân, Hiếu, 2001, 6.67
+Lưu Hiểu, Huy, 2002, 6.67
+Lâm Sơn, Đạt, 2003, 6.50
+Đồng Đức, Anh, 2003, 6.33
+Phùng Thị Mai, Anh, 2001, 6.33
+Lê Việt, Hoàng, 2007, 6.33
+Trần Thanh, Bình, 2003, 6.17
+Nguyễn Văn, Hải, 2003, 5.83
+Vũ Tiến, Hùng, 1999, 5.83
+Trần Tiến, Hảo, 2001, 5.67
+Nguyễn Thị Thu, Hiền, 2002, 5.67
+Đỗ Minh, Hiếu, 2002, 5.67
+Nguyễn Văn, Hòa, 2002, 5.67
+Ngô Thị Thu, Hằng, 2006, 5.50
+Đào Quốc, Hội, 2003, 5.50
+Bùi Đăng, Dương, 2002, 5.33
+Phạm Minh, Đức, 2004, 5.33
+Đỗ Tràng, Hiếu, 2003, 5.33
+Mạc Duy, Hoan, 2002, 3.50
+]Pass Students:
+[
+Nguyễn Trường, An, 2002, 7.50
+Nguyễn Văn, An, 2004, 6.67
+Đồng Đức, Anh, 2003, 6.33
+Vũ Hải, Anh, 2002, 8.33
+Chu Hoàng, Anh, 2006, 7.83
+Phạm Hùng, Anh, 2004, 9.00
+Phùng Thị Mai, Anh, 2001, 6.33
+Nguyễn Thục, Anh, 2007, 7.33
+Lê Tuyết, Anh, 2003, 7.17
+Hoàng Thị Vân, Anh, 2002, 9.17
+Nguyễn Bá Việt, Anh, 2001, 7.50
+Phạm Dương Việt, Anh, 2007, 8.50
+Trần Thanh, Bình, 2003, 6.17
+Nguyễn Duy, Chiến, 2007, 8.17
+Nguyễn Đức, Chính, 2008, 7.67
+Nguyễn Như, Cường, 2003, 9.67
+Thân Lê Quang, Cường, 2004, 7.50
+Lê Thị Thuỳ, Dung, 2002, 8.17
+Nguyễn Quang, Dũng, 2006, 6.83
+Phùng Văn, Dũng, 2006, 7.50
+Bùi Khánh, Duy, 2003, 7.83
+Bùi Đăng, Dương, 2002, 5.33
+Nguyễn Văn Hải, Dương, 2001, 8.33
+Nguyễn Quốc, Đạt, 2007, 8.17
+Đỗ Tiến, Đạt, 2002, 6.67
+Nguyễn Văn, Đồng, 2000, 7.67
+Đỗ Anh, Đức, 2005, 7.33
+Lương Đình, Đức, 2003, 8.83
+Phạm Minh, Đức, 2004, 5.33
+Nguyễn Văn, Hải, 2003, 5.83
+Lê Minh, Hiếu, 2007, 7.50
+Bùi Trung, Hiếu, 2003, 7.33
+Lê Việt, Hoàng, 2005, 8.50
+]Failure Students:
+[
+Vũ Trường, Giang, 2002, 6.67
+Trần Ngọc, Hải, 2002, 6.67
+Trần Tiến, Hảo, 2001, 5.67
+Nguyễn Thị Thu, Hiền, 2002, 5.67
+Đỗ Tràng, Hiếu, 2003, 5.33
+Mạc Duy, Hoan, 2002, 3.50
+Đào Quốc, Hội, 2003, 5.50
+]
